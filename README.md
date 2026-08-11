@@ -1,16 +1,39 @@
-## Hi there 👋
+## Alishba Kafeel
+#### Aspiring Software Engineer | AI Enthusiast
 
-<!--
-**alishbakafeel/alishbakafeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About me
+🎓 Software Engineering student passionate about **Software Development, Artificial Intelligence, and Web Development**
+🐍 Building projects with **Python** and exploring AI, Machine Learning, Generative AI, and automation, proficient in **Pandas, NumPy, Matplotlib, Seaborn, and data-driven applications**
+☕ Developing strong programming and problem-solving skills with **Java, OOP, and Data Structures & Algorithms**
+🤖 Exploring **Artificial Intelligence, Machine Learning, Generative AI, LLMs, and AI-powered applications**
+🌐 Interested in **Frontend Web Development** using HTML, CSS, JavaScript, React, and modern UI technologies
+🗄️ Working with **databases, APIs, and backend concepts**
+🚀 Passionate about building **real-world software and AI solutions** that solve practical problems
+🤝 Open to collaborating on **AI, software development, web development, and innovative projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ---
+
+## 🛠️ Languages & Tools
+
+### 🐍 Python & AI
+Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn  
+PyTorch • TensorFlow • Keras • OpenCV  
+Hugging Face • OpenAI • LangChain • LangGraph • LlamaIndex  
+RAG • Vector Databases • AI Agents • Agentic AI • Prompt Engineering  
+n8n • AI Automation • Workflow Automation
+ 
+### ☕ Java
+Java • OOP • Collections • DSA • Algorithms  
+Arrays • LinkedList • Stack • Queue • HashMap • Trees • Graphs  
+Searching • Sorting • BFS • DFS • Dijkstra • Prim
+ 
+### 🌐 Frontend
+HTML5 • CSS3 • JavaScript • React  
+Responsive Design • Flexbox • Grid • DOM • REST APIs
+ 
+### 🗄️ Databases & Tools
+SQL • MongoDB • Git • GitHub • VS Code • Google collab
+ 
+---
