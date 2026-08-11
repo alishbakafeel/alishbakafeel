@@ -5,12 +5,15 @@
 
 ##### About me
 🎓 Software Engineering student passionate about **Software Development, Artificial Intelligence, and Web Development**
+
 🐍 Building projects with **Python** and exploring AI, Machine Learning, Generative AI, and automation, proficient in **Pandas, NumPy, Matplotlib, Seaborn, and data-driven applications**
+
 ☕ Developing strong programming and problem-solving skills with **Java, OOP, and Data Structures & Algorithms**
+
 🤖 Exploring **Artificial Intelligence, Machine Learning, Generative AI, LLMs, and AI-powered applications**
+
 🌐 Interested in **Frontend Web Development** using HTML, CSS, JavaScript, React, and modern UI technologies
-🗄️ Working with **databases, APIs, and backend concepts**
-🚀 Passionate about building **real-world software and AI solutions** that solve practical problems
+
 🤝 Open to collaborating on **AI, software development, web development, and innovative projects**
 
  ---
