@@ -20,8 +20,9 @@
 
 #### Languages & Tools
 
-<div style="font-size: 9 px;">
-### 🐍 Python & AI
+<div style="font-size: 9px;">
+  
+  ### 🐍 Python & AI
 Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn  
 PyTorch • TensorFlow • Keras • OpenCV  
 Hugging Face • OpenAI • LangChain • LangGraph • LlamaIndex  
