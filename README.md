@@ -1,6 +1,8 @@
 ### Alishba Kafeel
-##### Aspiring Software Engineer | AI Enthusiast
-
+<h1>Alishba Kafeel</h1>
+<p>
+  <sub>Aspiring Software Engineer | AI Enthusiast</sub>
+</p>
 ---
 
 ##### About me
