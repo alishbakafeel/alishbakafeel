@@ -5,7 +5,7 @@
 
 ---
 #### About me
-<div style="font-size: 13px;">
+<div style="font-size: 9px;">
 
 - 🎓 Software Engineering student passionate about **Software Development, AI, and Web Development**
 - 🐍 **Python & Data Science:** Building projects and exploring **Machine Learning, Generative AI, and automation**
@@ -19,6 +19,8 @@
  ---
 
 #### Languages & Tools
+
+<div style="font-size: 9px;">
 
 ### 🐍 Python & AI
 Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn  
@@ -38,5 +40,5 @@ Responsive Design • Flexbox • Grid • DOM • REST APIs
  
 ### 🗄️ Databases & Tools
 SQL • MongoDB • Git • GitHub • VS Code • Google collab
- 
+ </div>
 ---
