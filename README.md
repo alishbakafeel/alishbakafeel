@@ -1,9 +1,9 @@
-### Alishba Kafeel
+#### Alishba Kafeel
 <p>
   Aspiring Software Engineer | AI Enthusiast
 </p>
----
 
+---
 ##### About me
 Software Engineering student passionate about **Software Development, Artificial Intelligence, and Web Development**
 
