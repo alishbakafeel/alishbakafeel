@@ -1,7 +1,6 @@
 ### Alishba Kafeel
-<h1>Alishba Kafeel</h1>
 <p>
-  <sub>Aspiring Software Engineer | AI Enthusiast</sub>
+  Aspiring Software Engineer | AI Enthusiast
 </p>
 ---
 
