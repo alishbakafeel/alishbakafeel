@@ -1,39 +1,53 @@
-#### Alishba Kafeel
-<p>
-  Aspiring Software Engineer | AI Enthusiast
+### Alishba Kafeel
+
+<p align="left">
+  <strong>Aspiring Software Engineer | AI Enthusiast</strong>
 </p>
 
 ---
-#### About me
+
+#### About Me
+
 <p>
-  - 🎓 Software Engineering student passionate about **Software Development, AI, and Web Development**
-- 🐍 **Python & Data Science:** Building projects and exploring **Machine Learning, Generative AI, and automation**
-- ☕ **Java & DSA:** Developing strong foundations in **Java, OOP, Data Structures & Algorithms**
-- 🤖 **Artificial Intelligence:** Exploring **AI, ML, LLMs, Generative AI**, and AI-powered applications
-- 🌐 **Frontend Development:** Creating modern interfaces with **HTML, CSS, JavaScript, and React**
-- 🤝 **Collaboration:** Open to working on **AI, software, web development, and innovative projects**
+  - 🎓 Software Engineering student passionate about <strong>Software Development, AI, and Web Development</strong><br>
+  - 🐍 <strong>Python & Data Science:</strong> Building projects and exploring <strong>Machine Learning, Generative AI, and automation</strong><br>
+  - ☕ <strong>Java & DSA:</strong> Developing strong foundations in <strong>Java, OOP, Data Structures & Algorithms</strong><br>
+  - 🤖 <strong>Artificial Intelligence:</strong> Exploring <strong>AI, ML, LLMs, Generative AI</strong>, and AI-powered applications<br>
+  - 🌐 <strong>Frontend Development:</strong> Creating modern interfaces with <strong>HTML, CSS, JavaScript, and React</strong><br>
+  - 🤝 <strong>Collaboration:</strong> Open to working on <strong>AI, software, web development, and innovative projects</strong>
 </p>
 
- ---
+---
 
 #### Languages & Tools
+
+##### 🐍 Python & AI
+
 <p>
-  ### 🐍 Python & AI
-Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn  
-PyTorch • TensorFlow • Keras • OpenCV  
-Hugging Face • OpenAI • LangChain • LangGraph • LlamaIndex  
-RAG • Vector Databases • AI Agents • Agentic AI • Prompt Engineering  
+Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn<br>
+PyTorch • TensorFlow • Keras • OpenCV<br>
+Hugging Face • OpenAI • LangChain • LangGraph • LlamaIndex<br>
+RAG • Vector Databases • AI Agents • Agentic AI • Prompt Engineering<br>
 n8n • AI Automation • Workflow Automation
- 
-### ☕ Java
-Java • OOP • Collections • DSA • Algorithms  
-Arrays • LinkedList • Stack • Queue • HashMap • Trees • Graphs  
+</p>
+
+##### ☕ Java
+
+<p>
+Java • OOP • Collections • DSA • Algorithms<br>
+Arrays • LinkedList • Stack • Queue • HashMap • Trees • Graphs<br>
 Searching • Sorting • BFS • DFS • Dijkstra • Prim
- 
-### 🌐 Frontend
-HTML5 • CSS3 • JavaScript • React  
+</p>
+
+##### 🌐 Frontend
+
+<p>
+HTML5 • CSS3 • JavaScript • React<br>
 Responsive Design • Flexbox • Grid • DOM • REST APIs
- 
-### 🗄️ Databases & Tools
+</p>
+
+##### 🗄️ Databases & Tools
+
+<p>
 SQL • MongoDB • Git • GitHub • VS Code • Google collab
 </p>
